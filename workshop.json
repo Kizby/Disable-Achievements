@@ -1,0 +1,7 @@
+{
+  "WorkshopId": 2701666814,
+  "Title": "Disable Achievements",
+  "Description": "Disables achievements and leaderboard submissions while the mod is active. Useful for testing wishes or mods without affecting your actual achievement tracking.",
+  "Tags": "Achievements",
+  "Visibility": "2"
+}
